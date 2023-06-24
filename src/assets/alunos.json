@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1",
+    "name": "Alfredo Peres",
+    "sexo": "M",
+    "dataNascimento": "new Date('1998-11-27')",
+    "nota1": "15",
+    "nota2": "20",
+    "nota3": "25",
+    "media": "25",
+    "idade": "30"
+  },
+
+  {
+    "id": "2",
+    "name": "Carla Fernanda",
+    "sexo": "F",
+    "dataNascimento": "new Date('1995-10-20')",
+    "nota1": "10",
+    "nota2": "30",
+    "nota3": "50",
+    "media": "30",
+    "idade": "25"
+  }
+]
